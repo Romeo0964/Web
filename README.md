@@ -1,2 +1,2 @@
-# Trave_Sri_Lanka
-WDOS_Assignment_01
+# Trave Sri Lanka
+WDOS Assignment 01
